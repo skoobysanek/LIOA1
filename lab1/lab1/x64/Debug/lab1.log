@@ -1,0 +1,12 @@
+﻿  lab1.cpp
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(40,5): error C2084: функция "int main(void)" уже имеет текст реализации
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(9): message : см. предыдущее определение "main"
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(44,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(64,13): error C2556: void main(void): перегруженная функция отличается от "int main(void)" только возвращаемым типом
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(40): message : см. объявление "main"
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(71,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(170,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(175,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(180,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\misha\OneDrive\Рабочий стол\алго\1\lab1\lab1\lab1.cpp(188,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
